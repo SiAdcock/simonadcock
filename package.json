@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/SiAdcock/repsych#readme",
   "devDependencies": {
+    "eslint": "^1.10.3",
     "gulp": "^3.9.0",
+    "gulp-eslint": "^1.1.1",
     "gulp-sass": "^2.1.0"
   }
 }
