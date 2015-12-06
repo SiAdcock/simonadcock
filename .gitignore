@@ -7,10 +7,11 @@
 Bones.esproj/
 
 ############
-## NodeJS
+## Built files
 ############
 
 node_modules
+library/css
 
 ############
 ## IDEs
