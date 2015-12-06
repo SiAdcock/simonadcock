@@ -11,7 +11,7 @@ Bones.esproj/
 ############
 
 node_modules
-library/css
+build
 
 ############
 ## IDEs
