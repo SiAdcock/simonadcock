@@ -1,21 +1,21 @@
 {
-  "name": "repsych",
+  "name": "simonadcock",
   "version": "1.0.0",
-  "description": "A custom Wordpress theme for [readingpsychology.com](http://readingpsychology.com)",
+  "description": "A custom Wordpress theme for [simonadcock.com](http://simonadcock.com)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SiAdcock/repsych.git"
+    "url": "git+https://github.com/SiAdcock/simonadcock.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SiAdcock/repsych/issues"
+    "url": "https://github.com/SiAdcock/simonadcock/issues"
   },
-  "homepage": "https://github.com/SiAdcock/repsych#readme",
+  "homepage": "http://simonadcock.com",
   "devDependencies": {
     "eslint": "^1.10.3",
     "gulp": "^3.9.0",
